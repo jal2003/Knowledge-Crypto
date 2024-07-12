@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px 10%;
+    font-size: 25px;
     background:radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
     background-size: cover;
     -webkit-background-clip: text;
@@ -12,7 +13,7 @@
 }
 
 .navbar .logo{
-    width: max(20vw, 150px); 
+    width: max(12vw, 150px); 
 }
 
 .navbar ul{

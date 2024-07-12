@@ -48,7 +48,6 @@ if(coinData && historicalData){
       <div className =  'coin-name'>
          <img src={coinData.image.large} alt = ""/>
          <p><b>{coinData.name} ({coinData.symbol.toUpperCase()})</b></p>
-      <h2>Coin : {coinId}</h2>
       </div>
       <div className="coin-chart">
         <LineChart historicalData = {historicalData}/>

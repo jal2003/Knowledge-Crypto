@@ -32,8 +32,8 @@ const Home = () => {
     <div className='home'>
       <div className="hero">
         <h1>Largest <br/>Crypto Marketplace</h1>
-        <p>Welcome to the world's largest crypocurrency 
-           marketplace. Sign up to explore more about cryptos</p>
+        <p>Learn about the world's largest crypocurrency 
+           marketplace.</p>
            <form onSubmit = {searchHandler}>
             
             <input onChange={inputHandler} list='coinlist' value ={input} type="text" placeholder="Search Crypto..." required/>
@@ -57,7 +57,7 @@ const Home = () => {
           <p className='market-cap'>Market Cap</p>
         </div>
           {
-            displayCoin.slice(0, 10).map((item, index)=>( 
+            displayCoin.slice(0, 50).map((item, index)=>( 
               <Link to={`/coin/${item.id}`} className="table-layout" key={index}>
                   <p>{item.market_cap_rank}</p>
                   <div>
