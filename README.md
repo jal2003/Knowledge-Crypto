@@ -1,8 +1,9 @@
-# React + Vite
+# Knowledge Crypto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Knowledge Crypto is a web application designed to provide real-time information on various cryptocurrencies. The application features a clean and responsive design, allowing users to view essential details about different coins, including their prices, market cap, and historical trends.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+- Real-time Data: Fetch and display live cryptocurrency data.
+- Responsive Design: Mobile-first design to ensure compatibility across different devices.
+- Interactive Charts: Visual representation of historical data for each cryptocurrency.
+- User-friendly Interface: Easy navigation and clean UI/UX.
