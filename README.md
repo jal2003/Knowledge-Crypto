@@ -32,7 +32,7 @@ To run the projects locally and to implement other changes please follow these s
   
 3. Install the dependencies:
 
-    `npm install=`
+    `npm install`
     
 4. Start the development server:
 
