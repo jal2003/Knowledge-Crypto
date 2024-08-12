@@ -31,19 +31,15 @@ This app is something I built to help myself and others find the information we 
 ## Getting Started
 To run the projects locally and to implement other changes please follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/crypto-tracker.git
+   cd knowledge-crypto
 
-    `git clone https://github.com/yourusername/crypto-tracker.git`
-    
-    
-2. Navigate to the project directory:
+2. **Install the dependencies:**
+   ```bash
+   npm install
 
-    `cd knowledge-crypto`
-  
-3. Install the dependencies:
-
-    `npm install`
-    
-4. Start the development server:
-
-    `npm run dev` 
+3. **Run the application:**
+   ```bash
+   npm run dev
