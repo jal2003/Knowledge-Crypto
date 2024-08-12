@@ -2,6 +2,14 @@
 
 Knowledge Crypto is a web application designed to provide real-time information on various cryptocurrencies. The application features a clean and responsive design, allowing users to view essential details about different coins, including their prices, market cap, and historical trends.
 
+# Demo
+
+
+
+Uploading Screen-Recording-2024-08-12T02_31_41.576Z.mp4…
+
+
+
 # Inspiration
 I’ve always been interested in cryptocurrencies, but I often felt confused by all the information out there. I created Knowledge Crypto because I wanted an easy way to see the most important details—like prices, market cap, and trends—without getting lost in too much data.
 
