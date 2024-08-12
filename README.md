@@ -4,9 +4,7 @@ Knowledge Crypto is a web application designed to provide real-time information 
 
 # Demo
 
-
-
-Uploading Screen-Recording-2024-08-12T02_31_41.576Z.mp4…
+[Demo Video]("C:\Users\Admin\Downloads\DemoKC.mp4")
 
 
 
