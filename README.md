@@ -4,7 +4,11 @@ Knowledge Crypto is a web application designed to provide real-time information 
 
 # Demo
 
-[Demo Video]("C:\Users\Admin\Downloads\DemoKC.mp4")
+
+
+https://github.com/user-attachments/assets/8a41e354-d57a-444b-bf60-8fcea29d8c4c
+
+
 
 
 
